@@ -1,0 +1,16 @@
+veadk/extensions/feishu_channel.py
+  h_9997da40073b70 337
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "17324065fc61cdef35ec488ff499421118cf2f71",
+  "prompts": {},
+  "humans": {
+    "h_9997da40073b70": {
+      "author": "ziyan.li <ziyan.li@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
